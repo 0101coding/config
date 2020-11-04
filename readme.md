@@ -1,4 +1,4 @@
-**Read Me**
+# **Read Me**
 This configurations were setup on MACOS
 
 It assumes the use of a fish terminal with Alacrity
